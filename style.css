@@ -884,6 +884,7 @@ h4 {
     }
 }
 
+
 @media (max-width: 767px) {
     .page-container {
         overflow-x: hidden;
@@ -967,6 +968,9 @@ h4 {
     .nav-invert .navbar-toggle {
         float: left;
         margin-left: 10px;
+    }
+    img {
+        text-align: center;
     }
     .bloc {
         padding-left: 0;
